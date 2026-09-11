@@ -1,0 +1,14 @@
+C:\Users\Student_14\Documents\Lab02-Efremov\bin\Debug\net10.0\Lab02-Efremov.exe
+C:\Users\Student_14\Documents\Lab02-Efremov\bin\Debug\net10.0\Lab02-Efremov.deps.json
+C:\Users\Student_14\Documents\Lab02-Efremov\bin\Debug\net10.0\Lab02-Efremov.runtimeconfig.json
+C:\Users\Student_14\Documents\Lab02-Efremov\bin\Debug\net10.0\Lab02-Efremov.dll
+C:\Users\Student_14\Documents\Lab02-Efremov\bin\Debug\net10.0\Lab02-Efremov.pdb
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.AssemblyInfoInputs.cache
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.AssemblyInfo.cs
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.csproj.CoreCompileInputs.cache
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.dll
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\refint\Lab02-Efremov.dll
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.pdb
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.genruntimeconfig.cache
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\ref\Lab02-Efremov.dll
