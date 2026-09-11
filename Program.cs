@@ -43,3 +43,12 @@ var studentAge = 20;
 var gpa = 4.75;
 var fullName = "Смирнова А. С.";
 Console.WriteLine($"{fullName}, возраст {studentAge}, средний балл {gpa}");
+
+
+Console.WriteLine();
+Console.WriteLine("Ввод текста");
+Console.Write("Введите ваше имя: ");
+string enteredName = Console.ReadLine();
+Console.Write("Введите название вашей группы: ");
+string enteredGroup = Console.ReadLine();
+Console.WriteLine($"Здравствуйте, {enteredName} из группы {enteredGroup}!");
