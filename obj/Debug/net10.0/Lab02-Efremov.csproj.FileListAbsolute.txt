@@ -12,3 +12,4 @@ C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\refint\Lab02-Efrem
 C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.pdb
 C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.genruntimeconfig.cache
 C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\ref\Lab02-Efremov.dll
+C:\Users\Student_14\Documents\Lab02-Efremov\obj\Debug\net10.0\Lab02-Efremov.sourcelink.json
