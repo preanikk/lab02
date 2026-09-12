@@ -74,23 +74,31 @@
 // Console.WriteLine($"Значение переменной booksCount: {booksCount}");
 
 
-Console.Write("Введите имя и фамилию: ");
-string enteredName = Console.ReadLine();
-Console.Write("Введите группу: ");
-string enteredGroup = Console.ReadLine();
-Console.Write("Введите год рождения: ");
-int enteredYear = int.Parse(Console.ReadLine());
-Console.Write("Введите средний балл: ");
-double enteredBall = double.Parse(Console.ReadLine());
-Console.Write("Введите любимую букву: ");
-char enteredBukva = Console.ReadLine()[0];
+// Console.Write("Введите имя и фамилию: ");
+// string enteredName = Console.ReadLine();
+// Console.Write("Введите группу: ");
+// string enteredGroup = Console.ReadLine();
+// Console.Write("Введите год рождения: ");
+// int enteredYear = int.Parse(Console.ReadLine());
+// Console.Write("Введите средний балл: ");
+// double enteredBall = double.Parse(Console.ReadLine());
+// Console.Write("Введите любимую букву: ");
+// char enteredBukva = Console.ReadLine()[0];
 
-bool avgGrade = enteredBall >= 4.0;
-int age2030 = 2030 - enteredYear;
+// bool avgGrade = enteredBall >= 4.0;
+// int age2030 = 2030 - enteredYear;
 
-Console.WriteLine("    Анкета");
-Console.WriteLine($"{enteredName}, группа {enteredGroup}");
-Console.WriteLine($"Год рождения: {enteredYear} (в 2030 будет {age2030} год)");
-Console.WriteLine($"Средний балл: {enteredBall}");
-Console.WriteLine($"Балл >=4: {avgGrade}");
-Console.WriteLine($"Любимая буква: {enteredBukva}");
+// Console.WriteLine("    Анкета");
+// Console.WriteLine($"{enteredName}, группа {enteredGroup}");
+// Console.WriteLine($"Год рождения: {enteredYear} (в 2030 будет {age2030} год)");
+// Console.WriteLine($"Средний балл: {enteredBall}");
+// Console.WriteLine($"Балл >=4: {avgGrade}");
+// Console.WriteLine($"Любимая буква: {enteredBukva}");
+
+
+Console.Write("Введите ваш рост: ");
+double rost = double.Parse(Console.ReadLine());
+Console.Write("Введите ваш вес: ");
+double ves = double.Parse(Console.ReadLine());
+double bmi = ves / (rost * rost);
+Console.WriteLine($"ИМТ: {bmi:F2}");

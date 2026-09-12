@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Efremov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78297f79d4e485cb8c0d16c0e5db061a044198cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3935fbd3f3fd8aba44afc22a266db8d67bb30660")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Efremov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Efremov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
