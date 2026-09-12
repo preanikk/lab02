@@ -96,9 +96,18 @@
 // Console.WriteLine($"Любимая буква: {enteredBukva}");
 
 
-Console.Write("Введите ваш рост: ");
-double rost = double.Parse(Console.ReadLine());
-Console.Write("Введите ваш вес: ");
-double ves = double.Parse(Console.ReadLine());
-double bmi = ves / (rost * rost);
-Console.WriteLine($"ИМТ: {bmi:F2}");
+// Console.Write("Введите ваш рост: ");
+// double rost = double.Parse(Console.ReadLine());
+// Console.Write("Введите ваш вес: ");
+// double ves = double.Parse(Console.ReadLine());
+// double bmi = ves / (rost * rost);
+// Console.WriteLine($"ИМТ: {bmi:F2}");
+
+
+
+Console.Write("Введите фамилию: ");
+string surname = Console.ReadLine();
+Console.Write("Введите имя: ");
+string name = Console.ReadLine();
+char name1 = name[0];
+Console.WriteLine($"{surname} {name1}.");
