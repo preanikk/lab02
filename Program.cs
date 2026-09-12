@@ -105,9 +105,25 @@
 
 
 
-Console.Write("Введите фамилию: ");
-string surname = Console.ReadLine();
-Console.Write("Введите имя: ");
-string name = Console.ReadLine();
-char name1 = name[0];
-Console.WriteLine($"{surname} {name1}.");
+// Console.Write("Введите фамилию: ");
+// string surname = Console.ReadLine();
+// Console.Write("Введите имя: ");
+// string name = Console.ReadLine();
+// char name1 = name[0];
+// Console.WriteLine($"{surname} {name1}.");
+
+
+using System.Diagnostics.Metrics;
+
+Console.Write("Ведите целое число: ");
+string intInput = Console.ReadLine();
+bool intSuccess = int.TryParse(intInput, out int intValue);
+Console.WriteLine($"Целое число: успех={intSuccess}, значение {intValue} ");
+Console.Write("Ведите дробное число: ");
+string doubleInput = Console.ReadLine();
+bool doubleSuccess = double.TryParse(doubleInput, out double doubleValue);
+Console.WriteLine($"Дробное число: успех={doubleSuccess}, значение {doubleValue} ");
+Console.Write("Ведите дату: ");
+string dateInput = Console.ReadLine();
+bool dateSuccess = DateTime.TryParse(dateInput, out DateTime dateValue);
+Console.WriteLine($"Дата: успех={dateSuccess}, значение {dateValue} ");
